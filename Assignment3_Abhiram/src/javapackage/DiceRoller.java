@@ -19,7 +19,7 @@ public class DiceRoller {
             totalRolls += diceRolls[index];
         }
         System.out.println("Total rolls were: " + totalRolls);
-        System.out.println("Program by Abhiram K.B");
+        System.out.println("Program by Abhiram K.B"):
        
 }
 
