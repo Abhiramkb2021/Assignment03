@@ -21,8 +21,7 @@ public class DiceRoller {
         System.out.println("Total rolls were: " + totalRolls);
        
        
-       
-}
+       1
 
 
 }
